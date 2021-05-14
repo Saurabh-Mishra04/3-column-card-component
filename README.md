@@ -26,10 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3-columnpreviewcardcomponent-using-scss-flexbox-R_It0I6qr)
+- Live Site URL: [saurabh-mishra04.github.io](https://saurabh-mishra04.github.io/3-column-card-component/)
 
 ### Built with
 
